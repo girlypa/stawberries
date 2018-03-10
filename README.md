@@ -1,2 +1,2 @@
 # stawberries
-This repository holds all my stawberries
+This repository holds all my stawberry
